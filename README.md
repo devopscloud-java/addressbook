@@ -1,4 +1,3 @@
-New line added
 
 Addressbook Tutorial
 ====================
